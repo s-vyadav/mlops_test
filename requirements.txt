@@ -1,0 +1,7 @@
+tensorflow
+keras-tuner
+streamlit
+mlflow
+pillow
+numpy
+flask
